@@ -9,6 +9,12 @@ from tokenizer import tokenize
 SENTIMENT_TERMS = {
     "bad": "negative",
     "good": "positive",
+    "like": "positive",
+    "dislike": "negative",
+    "depression": "negative",
+    "happy": "positive",
+    "mindful": "positive",
+    "sad": "negative",
 }
 
 
